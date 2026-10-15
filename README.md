@@ -1,43 +1,43 @@
 # Personal Page — Denis Bittencourt Monteiro
 
-Uma página pessoal simples e responsiva para apresentar informações de contato.
+A simple, responsive personal page for sharing contact information.
 
-Esta página foi contruída utilizando o template Aerial do HTML5 UP.
+This page was built using the Aerial template from HTML5 UP.
 
-**Status:** Pronto — versão mínima funcional
+**Status:** In production
 
-**Sumário**
-- **Descrição:** Página estática de portfólio/contato, sem backend.
-- **Demo:** Abra [index.html](index.html) no seu navegador.
-- **Tecnologias:** HTML, CSS, SASS (pré-processador), Font Awesome.
+**Summary**
+- **Description:** Static portfolio/contact page, with no backend.
+- **Demo:** Open [index.html](index.html) in your browser.
+- **Technologies:** HTML, CSS, SASS (preprocessor), Font Awesome.
 
-**Recursos**
-- Apresenta nome, título e links para GitHub, LinkedIn e e-mail.
-- Layout responsivo com suporte básico a dispositivos móveis e desktop.
-- Estilos organizados em `assets/css` e fontes em `webfonts`.
+**Features**
+- Displays name, title, and links to GitHub, LinkedIn, and email.
+- Responsive layout with basic support for mobile and desktop devices.
+- Styles organized in `assets/css` and fonts in `assets/webfonts`.
 
-**Como executar**
-1. Clone ou baixe este repositório.
-2. Abra o arquivo [index.html](index.html) no navegador.
+**How to run**
+1. Clone or download this repository.
+2. Open the [index.html](index.html) file in your browser.
 
-Por ser uma página estática, não há etapas de build obrigatórias. Se desejar trabalhar nos estilos a partir dos fontes SASS, compile `sass/main.scss` para gerar `assets/css/main.css`.
+Since this is a static page, no build steps are required. If you want to work on the styles from the SASS sources, compile `assets/sass/main.scss` to generate `assets/css/main.css`.
 
-**Uso**
-1. Abra [index.html](index.html).
-2. Use os links no cabeçalho para acessar GitHub, LinkedIn ou enviar um e-mail.
+**Usage**
+1. Open [index.html](index.html).
+2. Use the links in the header to visit GitHub, LinkedIn, or send an email.
 
-**Estrutura do projeto**
-- [index.html](index.html) — página principal.
-- [assets/css/main.css](assets/css/main.css) — estilos principais (compilado).
-- [assets/css/noscript.css](assets/css/noscript.css) — estilos para navegadores sem JavaScript.
-- [assets/css/fontawesome-all.min.css](assets/css/fontawesome-all.min.css) — ícones Font Awesome (local).
-- [sass/main.scss](sass/main.scss) — fonte SASS principal.
-- [sass/libs/_vars.scss](sass/libs/_vars.scss) — variáveis SASS.
-- [webfonts/](webfonts/) — fontes usadas pelo projeto.
+**Project structure**
+- [index.html](index.html) — main page.
+- [assets/css/main.css](assets/css/main.css) — main styles (compiled).
+- [assets/css/noscript.css](assets/css/noscript.css) — styles for browsers without JavaScript.
+- [assets/css/fontawesome-all.min.css](assets/css/fontawesome-all.min.css) — Font Awesome icons (local).
+- [assets/sass/main.scss](assets/sass/main.scss) — main SASS source.
+- [assets/sass/libs/_vars.scss](assets/sass/libs/_vars.scss) — SASS variables.
+- [assets/webfonts/](assets/webfonts/) — fonts used by the project.
 
-**Contribuindo**
-- Sugestões, correções e melhorias são bem-vindas. Abra uma issue descrevendo a proposta antes de enviar um pull request.
+**Contributing**
+- Suggestions, fixes, and improvements are welcome. Please open an issue describing your proposal before submitting a pull request.
 
-**Autores**
-- HTML5 UP - https://html5up.net/aerial
+**Authors**
+- HTML5 UP — https://html5up.net/aerial
 - Denis Bittencourt — https://denisbm.com
